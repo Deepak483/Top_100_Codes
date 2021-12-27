@@ -4,6 +4,7 @@ n = int(input("Enter the length of array: "))
 arr = []
 
 print("Enter element of array: ")
+print("Hello world")
 for i in range(n):
     arr.append(int(input()))
 
