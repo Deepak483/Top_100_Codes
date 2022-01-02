@@ -12,3 +12,4 @@ for i in range(1, smaller+1):
         arr.append(i)
 
 print(f"Hcf of {num1} and {num2} is {max(arr)}")
+print("Hcf of num1 and num2 is ",max(arr))
